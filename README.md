@@ -8,9 +8,9 @@ Multispectral drone imagery collected over the Bürgewald area near Jülich, Ger
 | --- | --- |
 | Location | Bürgewald, North Rhine-Westphalia, Germany (~50.86°N, 6.53°E) |
 | Collection date | 2024-03-07 |
-| Image captures | 762 |
-| Image files | 4572 (6 spectral bands per capture) |
-| Total size | ~18.5 GB |
+| Image captures | 735 |
+| Image files | 4410 (6 spectral bands per capture) |
+| Total size | ~17.8 GB |
 | Image format | GeoTIFF |
 | Image size | 1456 × 1088 px |
 | Sensor | MicaSense RedEdge-P |
